@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacksonkern
 - 🌱 I’m currently learning Python, Javascript, and SQL Code
-- 📫 How to reach me Jackson.kern@ateam.net
+- 📫 How to reach me - Email: Jackson.kern@ateam.net | g00by1995@gmail.com
 
 <!---
 jacksonkern/jacksonkern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
